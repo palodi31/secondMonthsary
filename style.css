@@ -24,7 +24,7 @@ html,body{height:100%;scroll-behavior:smooth;background:linear-gradient(180deg,v
 
 /* Tiny hearts divider */
 .heart-divider{--size:18px;width:100%;background:repeating-linear-gradient(90deg,transparent 0 16px,#ffd0df 16px 18px);height:2px;margin:1rem 0 1.25rem;position:relative}
-.heart-divider::after{content:"417";font-family:"bootstrap-icons";background:#fff;color:#e25584;position:absolute;left:50%;transform:translate(-50%,-50%);top:50%;font-size:var(--size);padding:0 .25rem}
+.heart-divider::after{content:"I love you babi!";font-family:"bootstrap-icons";background:#fff;color:#e25584;position:absolute;left:50%;transform:translate(-50%,-50%);top:50%;font-size:var(--size);padding:0 .25rem}
 
 /* Responsive tweaks */
 @media (min-width:768px){.hero{padding:1.75rem 1rem .75rem}.score-card{min-height:140px}.polaroid-caption{font-size:1rem}}
